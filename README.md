@@ -34,9 +34,9 @@ This repository contains the full workflow including scripts, and node descripti
      - `skill-base/Skills_List.csv`
 
 4. **Optional: Full Dataset**
-   - The full unzipped dataset (~5.5 GB, multilingual) can be downloaded via Dropbox:
+   - The full dataset (~5.5 GB (unzipped), multilingual) can be downloaded via Dropbox:
      [Download Full Dataset (.zip)](https://www.dropbox.com/scl/fi/zmosdbmycpvosrmcdnejm/All_Job_Entries.csv.zip?rlkey=8axtyzwjv0pq28f9db89g7ljq&st=rafjr5ju&dl=0)
-   - Unzip the file and replace `Sample_Data_2000_Job_Entries.csv` with `All_Job_Entries.csv` in the first File Reader node.
+   - Unzip the file (~1.52 GB) and replace `Sample_Data_2000_Job_Entries.csv` with `All_Job_Entries.csv` in the first File Reader node.
 
 5. **Run the Workflow**
    - Execute each node separately or use the **"Execute All"** option.
