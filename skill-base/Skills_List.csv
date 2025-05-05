@@ -1,0 +1,442 @@
+Skill,Skill Cluster,Category,Type
+.NET,Web Technologies,generic,Framework
+3D Reconstruction,Visual Image Recognition,generic,Concept
+3D Rendering,3D Modeling,generic,Concept
+3ds Max,3D Modeling,generic,Software
+Activity Recognition,Visual Image Recognition,generic,Concept
+AdaBoost,Machine Learning,generic,Algorithm
+Advanced Driver Assistance Systems,Autonomous Driving,generic,Concept
+Advanced Robotics,Robotics,specific,Concept
+Agile,Software Development,generic,Methodology
+AI Ethics,AI Ethics,specific,Concept
+AIF360,AI Ethics,specific,Framework
+AIOps,Artificial Intelligence,specific,Concept
+Airbyte,Data Engineering,specific,Tool
+Albumentations,Computer Vision,specific,Library
+AllenNLP,Natural Language Processing,specific,Framework
+Altair,Visualization,specific,Library
+Amazon QuickSight,Business Intelligence,specific,Tool
+Amazon Textract,Natural Language Processing,specific,Framework
+Angular,Web Technologies,generic,Framework
+Angular,Web Technologies,generic,Framework
+Ansible,DevOps,generic,Configuration Management
+ANTLR,Natural Language Processing,generic,Library
+Airflow,Data Engineering,specific,Framework
+Beam,Data Engineering,specific,Framework
+Kafka,Data Engineering,specific,Framework
+MADlib,Machine Learning,specific,Library
+Mahout,Machine Learning,specific,Framework
+MXNet,Neural Networks,specific,Framework
+SINGA,Machine Learning,generic,Framework
+Apache Spark,Machine Learning,generic,Framework
+APIs,Web Technologies,generic,Concept
+Applications Of Artificial Intelligence,Artificial Intelligence,generic,Concept
+Artificial General Intelligence,Artificial Intelligence,generic,Concept
+Artificial Intelligence Development,Artificial Intelligence,generic,Concept
+AIML,Artificial Intelligence,specific,Language
+Artificial Intelligence Systems,Artificial Intelligence,generic,Concept
+Artificial Intelligence,Artificial Intelligence,generic,Concept
+Artificial Neural Networks,Neural Networks,specific,Concept
+ASP.NET,Web Technologies,generic,Framework
+Assembly,Programming Languages,generic,Low-level Language
+Association Rule Learning,Machine Learning,specific,Concept
+Auto-GPT,Generative AI,specific,Tool
+Auto-sklearn,AutoML,specific,Framework
+AutoCAD,3D Modeling,generic,Software
+Autoencoders,Neural Networks,specific,Model
+AutoGluon,AutoML,specific,Framework
+Automated Machine Learning,Machine Learning,specific,Concept
+Autonomic Computing,Machine Learning,generic,Concept
+Autonomous Cruise Control Systems,Autonomous Driving,specific,Concept
+Autonomous System,Autonomous Driving,specific,Concept
+Autonomous Vehicles,Autonomous Driving,specific,Concept
+AWS SageMaker,Machine Learning,specific,Framework
+AWS Services,Cloud Computing,specific,Toolchain
+AWS,Cloud Computing,generic,Platform
+Azure Cognitive Services,Artificial Intelligence,specific,Framework
+Azure Machine Learning,Machine Learning,specific,Framework
+Azure Synapse,Cloud Computing,specific,Platform
+Azure,Cloud Computing,generic,Platform
+BabyAGI,Generative AI,specific,Tool
+Baidu,Artificial Intelligence,generic,Platform
+Bash,Programming Languages,generic,Shell Scripting
+BentoML,Model Deployment,specific,Framework
+BERT,Natural Language Processing,specific,Model
+Blender,3D Modeling,generic,Software
+Boosting,Machine Learning,generic,Concept
+Bottle,Web Technologies,specific,Framework
+C,Programming Languages,generic,Language
+C#,Programming Languages,generic,Language
+C++,Programming Languages,generic,Language
+Caffe,Neural Networks,specific,Framework
+Caffe2,Neural Networks,specific,Framework
+Caret,Machine Learning,specific,Library
+Chainer (Deep Learning Framework),Neural Networks,specific,Framework
+Chatbot,Natural Language Processing,generic,Concept
+Chef,DevOps,generic,Configuration Management
+CHi-Squared Automatic Interaction Detection (CHAID),Machine Learning,specific,Algorithm
+CI/CD,DevOps,generic,Practice
+CircleCI,DevOps,generic,CI/CD
+CART,Machine Learning,specific,Algorithm
+Claude,Generative AI,specific,Model
+Clojure,Programming Languages,generic,Language
+Cloud Services,Cloud Computing,generic,Concept
+Cluster Analysis,Machine Learning,specific,Concept
+COBOL,Programming Languages,generic,Language
+Cognitive Automation,Artificial Intelligence,specific,Concept
+Cognitive Computing,Artificial Intelligence,specific,Concept
+Cognitive Robotics,Robotics,specific,Concept
+Colab Notebook,Software Development,generic,Tool
+Collaborative Filtering,Machine Learning,specific,Concept
+Comet.ml,ML Experiment Tracking,specific,Tool
+Computational Intelligence,Artificial Intelligence,specific,Concept
+Computational Linguistics,Natural Language Processing,generic,Concept
+Computer Vision,Visual Image Recognition,generic,Concept
+Confluence,Project Management,specific,Tool
+Confusion Matrix,Machine Learning,generic,Concept
+Contextual Image Classification,Visual Image Recognition,generic,Concept
+CNN,Neural Networks,specific,Concept
+Convolutional Neural Networks,Neural Networks,specific,Concept
+Cordova,Mobile Development,generic,Framework
+CoreNLP,Natural Language Processing,specific,Framework
+Cortana,Artificial Intelligence,generic,Framework
+CrewAI,Generative AI,specific,Framework
+CSS,Web Technologies,generic,Style Sheet
+CUDA,Programming Languages,generic,Language
+Cudnn,Neural Networks,specific,Library
+Cyber-Physical Systems,Machine Learning,generic,Concept
+DALL-E,Generative AI,specific,Model
+Dart,Programming Languages,generic,Language
+Dash,Web Technologies,specific,Framework
+Dask,Machine Learning,generic,Framework
+Data Analytics,Data Science,generic,Concept
+Data Classification,Machine Learning,generic,Concept
+Data Science,Data Science,generic,Concept
+Databricks,Data Engineering,specific,Platform
+Dbscan,Machine Learning,specific,Algorithm
+Decision Models,Machine Learning,generic,Concept
+Decision Tree Learning,Machine Learning,specific,Algorithm
+Deep Learning,Neural Networks,generic,Concept
+Deeplearning4j,Neural Networks,specific,Framework
+DeepSpeech,Natural Language Processing,specific,Framework
+Delta Lake,Data Engineering,specific,Framework
+Detectron2,Computer Vision,specific,Framework
+DevOps,DevOps,generic,Concept
+Dialog Systems,Natural Language Processing,generic,Concept
+Digital Image Processing,Visual Image Recognition,generic,Concept
+Dimensionality Reduction,Machine Learning,specific,Concept
+Django,Web Technologies,generic,Framework
+Dlib,Machine Learning,specific,Library
+Docker,DevOps,generic,Containerization
+Elixir,Programming Languages,generic,Language
+Elk,Monitoring,generic,Tool
+Ensemble Methods,Machine Learning,specific,Concept
+Erlang,Programming Languages,generic,Language
+Evidently,MLOps,specific,Library
+Evolutionary Programming,Machine Learning,generic,Concept
+Expectation Maximization Algorithm,Machine Learning,specific,Algorithm
+Expert Systems,Artificial Intelligence,generic,Concept
+Express.js,Web Technologies,generic,Framework
+Eye Tracking,Visual Image Recognition,generic,Technology
+F#,Programming Languages,generic,Language
+Face Detection,Visual Image Recognition,generic,Concept
+Facial Recognition,Visual Image Recognition,generic,Technology
+Fairlearn,AI Ethics,specific,Library
+Falcon,Web Technologies,specific,Framework
+FastAPI,Model Deployment,specific,Framework
+fastText,Natural Language Processing,specific,Library
+Feast,MLOps,specific,Tool
+Feature Engineering,Machine Learning,specific,Concept
+Feature Extraction,Machine Learning,specific,Concept
+Feature Learning,Machine Learning,specific,Concept
+Feature Selection,Machine Learning,generic,Concept
+Flask,Web Technologies,generic,Framework
+Flutter,Mobile Development,generic,Framework
+Flux.jl,Deep Learning,specific,Framework
+Fortran,Programming Languages,generic,Language
+Fuzzy Logic,Mathematics,generic,Concept
+GANs,Generative AI,specific,Model
+Gaussian Process,Machine Learning,generic,Concept
+GCP,Cloud Computing,generic,Platform
+Gemini,Generative AI,specific,Model
+GenAI,Generative AI,generic,Concept
+Generative AI,Generative AI,generic,Concept
+Genetic Algorithm,Machine Learning,specific,Algorithm
+Git,Software Development,generic,Tool
+GitHub Actions,DevOps,generic,CI/CD
+GitHub,Software Development,generic,Tool
+GitLab CI/CD,DevOps,generic,CI/CD
+GitLab,Software Development,generic,Tool
+Golang,Programming Languages,generic,Language
+Go (Golang),Programming Languages,generic,Language
+Godot,Game Development,generic,Engine
+Google AutoML,Machine Learning,specific,Framework
+Google Cloud ML Engine,Machine Learning,specific,Framework
+GPT-3,Generative AI,specific,Model
+GPT-3.5,Generative AI,specific,Model
+GPT-4,Generative AI,specific,Model
+Gradient Boosting,Machine Learning,specific,Algorithm
+Grafana,Monitoring,generic,Tool
+GraphQL,Web Technologies,generic,Query Language
+Great Expectations,Data Engineering,specific,Tool
+gRPC,Web Technologies,generic,Protocol
+Guidance Navigation And Control Systems,Autonomous Driving,generic,Concept
+H2O AutoML,AutoML,specific,Framework
+H2O.ai,Machine Learning,specific,Framework
+Hadoop,Data Engineering,generic,Framework
+Handwriting Recognition,Natural Language Processing,generic,Concept
+Haskell,Programming Languages,generic,Language
+Hidden Markov Model,Machine Learning,generic,Concept
+HTML,Web Technologies,generic,Markup Language
+Hug,Web Technologies,specific,Framework
+Hugging Face,Natural Language Processing,specific,Framework
+Hugging Face Transformers,Natural Language Processing,specific,Library
+Hyperparameter Optimization,Machine Learning,specific,Concept
+Image Analysis,Visual Image Recognition,generic,Concept
+Image Generation,Generative AI,generic,Concept
+Image Matching,Visual Image Recognition,generic,Concept
+Image Processing,Visual Image Recognition,generic,Concept
+Image Recognition,Visual Image Recognition,generic,Concept
+Image Segmentation,Visual Image Recognition,generic,Concept
+Image Sensor,Visual Image Recognition,generic,Technology
+Imagenet,Visual Image Recognition,specific,Dataset
+Inference Engine,Machine Learning,specific,Concept
+Intelligent Agent,Natural Language Processing,generic,Concept
+Intelligent Control,Artificial Intelligence,generic,Concept
+Intelligent Software Assistant,Natural Language Processing,generic,Concept
+Intelligent Systems,Artificial Intelligence,generic,Concept
+Intelligent Virtual Assistant,Natural Language Processing,generic,Concept
+Interactive Kiosk,Artificial Intelligence,generic,Concept
+InterpretML,Explainable AI,specific,Framework
+Ionic,Mobile Development,generic,Framework
+IPSoft Amelia,Artificial Intelligence,specific,Framework
+Java,Programming Languages,generic,Language
+JavaScript,Programming Languages,generic,Language
+JAX-RS,Web Technologies,specific,Framework
+JAX,Deep Learning,specific,Framework
+Jenkins,DevOps,generic,CI/CD
+Jira,Project Management,specific,Tool
+JSON,Web Technologies,generic,Data Format
+Julia,Programming Languages,generic,Language
+Jupyter Notebook,Software Development,generic,Tool
+JWT,Web Technologies,generic,Protocol
+K-Means Clustering,Machine Learning,specific,Algorithm
+Kafka,Data Engineering,specific,Framework
+Kaldi,Natural Language Processing,specific,Framework
+Keras,Neural Networks,specific,Framework
+Kernel Methods,Machine Learning,generic,Concept
+KNIME,Data Engineering,specific,Framework
+Knowledge-Based Configuration,Artificial Intelligence,generic,Concept
+Knowledge-Based Systems,Artificial Intelligence,generic,Concept
+Kotlin,Programming Languages,generic,Language
+Kubeflow,MLOps,specific,Framework
+Kubernetes,DevOps,generic,Orchestration
+LabVIEW,Programming Languages,generic,Language
+LangChain,Generative AI,specific,Framework
+Laravel,Web Technologies,generic,Framework
+LLM,Generative AI,specific,Model
+Large Language Model,Generative AI,specific,Model
+Latent Dirichlet Allocation,Natural Language Processing,specific,Algorithm
+LaTeX,Programming Languages,generic,Document Preparation
+Lexalytics,Natural Language Processing,specific,Framework
+LIBSVM,Machine Learning,specific,Library
+LiDAR,Autonomous Driving,generic,Technology
+LIME,Explainable AI,specific,Library
+linux os,Operating Systems,generic,Technology
+Lisp,Programming Languages,generic,Language
+LLaMA,Generative AI,specific,Model
+LlamaIndex,Generative AI,specific,Framework
+LLaVA,Generative AI,specific,Model
+LLM,Generative AI,specific,Model
+LSTM,Neural Networks,specific,Model
+LoRA,Generative AI,specific,Technique
+Lua,Programming Languages,generic,Language
+Machine Learning Algorithms,Machine Learning,generic,Concept
+Machine Learning,Machine Learning,generic,Concept
+Machine Translation,Natural Language Processing,generic,Concept
+Machine Vision,Visual Image Recognition,generic,Concept
+Markdown,Web Technologies,generic,Markup Language
+Markov Chain,Machine Learning,generic,Concept
+Mathematical Modelling,Mathematics,generic,Concept
+MATLAB,Programming Languages,generic,Language
+Matrix Factorization,Machine Learning,generic,Concept
+Maya,3D Modeling,generic,Software
+MediaPipe,Computer Vision,specific,Framework
+Merkmalsextraktion (Feature Engineering),Machine Learning,specific,Concept
+Meta Learning,Machine Learning,generic,Concept
+Microservices,Software Architecture,generic,Concept
+CNTK,Machine Learning,specific,Framework
+Microsoft LUIS,Natural Language Processing,specific,Framework
+Midjourney,Generative AI,specific,Model
+MiniGPT-4,Generative AI,specific,Model
+MLflow,MLOps,specific,Framework
+MLOps,MLOps,specific,Concept
+mlpack,Machine Learning,specific,Library
+MLServer,Model Deployment,specific,Tool
+Motion Analysis,Visual Image Recognition,generic,Concept
+Motion Planning,Robotics,generic,Concept
+Multi-Agent Systems,Artificial Intelligence,generic,Concept
+Naive Bayes,Machine Learning,generic,Algorithm
+NativeScript,Mobile Development,generic,Framework
+Natural Language Generation,Natural Language Processing,specific,Concept
+Natural Language Processing Systems,Natural Language Processing,specific,Concept
+Natural Language Programming,Natural Language Processing,specific,Concept
+Natural Language Toolkits,Natural Language Processing,specific,Library
+Natural Language Understanding,Natural Language Processing,specific,Concept
+Natural Language User Interface,Natural Language Processing,generic,Concept
+Nearest Neighbour Algorithm,Machine Learning,specific,Algorithm
+Neptune.ai,ML Experiment Tracking,specific,Tool
+Neuronales Netzwerk (Neural Network),Neural Networks,specific,Concept
+NLP - Natural Language Processing,Natural Language Processing,specific,Concept
+NLTK,Natural Language Processing,specific,Library
+NNI (Neural Network Intelligence),Hyperparameter Optimization,specific,Framework
+Node,Web Technologies,generic,Runtime
+Node.js,Web Technologies,generic,Runtime
+NoSQL,Databases,generic,Language
+Nvidia Jetson,Robotics,specific,Technology
+OAuth,Web Technologies,generic,Protocol
+Object Recognition,Visual Image Recognition,generic,Concept
+OmniPage,Visual Image Recognition,generic,Technology
+ONNX,Artificial Intelligence,specific,Framework
+OpenAI Gym,Artificial Intelligence,specific,Framework
+OpenCL,Programming Languages,generic,GPU Programming
+OpenCV,Computer Vision,specific,Library
+OpenNLP,Natural Language Processing,specific,Library
+OpenVINO,Neural Networks,specific,Framework
+OCR,Visual Image Recognition,generic,Technology
+Optuna,Hyperparameter Optimization,specific,Library
+PaddlePaddle,Neural Networks,specific,Framework
+Path Analysis,Autonomous Driving,generic,Concept
+Path Finding,Autonomous Driving,generic,Concept
+Perceptron,Machine Learning,generic,Algorithm
+Perl,Programming Languages,generic,Language
+PHP,Programming Languages,generic,Language
+PL/SQL,Programming Languages,generic,Language
+Plotly,Visualization,specific,Library
+Pose Estimation,Visual Image Recognition,generic,Concept
+PowerBI,Business Intelligence,specific,Tool
+PowerShell,Programming Languages,generic,Shell Scripting
+Predictionio,Machine Learning,specific,Framework
+Predictive Model,Machine Learning,generic,Concept 
+Predictive Modeling,Machine Learning,generic,Concept 
+Prolog,Programming Languages,generic,Language
+Prometheus,MLOps,specific,Tool
+Prompt Engineering,Generative AI,generic,Technique
+Puppet,DevOps,generic,Configuration Management
+Pybrain,Neural Networks,specific,Framework
+Pyramid,Web Technologies,specific,Framework
+PySpark,Big Data,specific,Framework
+PySyft,AI Privacy,specific,Library
+Python,Programming Languages,generic,Language
+PyTorch,Machine Learning,specific,Framework
+Qlik,Business Intelligence,specific,Tool
+QLoRA,Generative AI,specific,Technique
+Quart,Web Technologies,specific,Framework
+R,Programming Languages,generic,Language
+Random Forest Algorithm,Machine Learning,specific,Algorithm
+Ray Tune,Hyperparameter Optimization,specific,Library
+React Native,Mobile Development,generic,Framework
+React,Web Technologies,generic,Framework
+Realsense,Visual Image Recognition,specific,Technology
+Reasoning Systems,Artificial Intelligence,specific,Concept
+Recommendation Engine,Machine Learning,specific,Concept
+Recommender Systems,Machine Learning,specific,Concept
+RNN,Neural Networks,specific,Model
+Reinforcement Learning,Machine Learning,specific,Concept
+Remote Sensing,Autonomous Driving,generic,Technology
+REST API,Web Technologies,generic,Protocol
+Retrieval-Augmented Generation (RAG),Generative AI,specific,Technique
+RMarkdown,Programming Languages,generic,Language
+Robot Framework,Robotics,specific,Framework
+Robot Operating Systems,Robotics,specific,Framework
+Robotic Automation Software,Robotics,specific,Framework
+Robotic Liquid Handling Systems,Robotics,specific,Technology
+Robotic Programming,Robotics,specific,Concept
+Robotic Systems,Robotics,specific,Concept
+Ruby on Rails,Web Technologies,generic,Framework
+Rust,Programming Languages,generic,Language
+Sanic,Web Technologies,specific,Framework
+SAS,Programming Languages,generic,Language
+Scala,Programming Languages,generic,Language
+Scikit-learn,Machine Learning,specific,Library
+Screen Reader,Natural Language Processing,generic,Technology
+Segmentation Algorithms,Computer Vision,specific,Algorithm
+Seldon Core,MLOps,specific,Framework
+Semantic Analysis,Natural Language Processing,generic,Concept
+Semantic Interpretation For Speech Recognition,Natural Language Processing,generic,Concept
+Semantic Parsing,Natural Language Processing,generic,Concept
+Semantic Search,Natural Language Processing,generic,Concept
+Semi-Supervised Learning,Machine Learning,specific,Concept
+Sentiment Analysis,Natural Language Processing,generic,Concept
+Seq2Seq,Natural Language Processing,specific,Model
+Servomotor,Robotics,generic,Technology
+SHAP,Explainable AI,specific,Library
+Shell Scripting,Programming Languages,generic,Concept
+Simulink,Programming Languages,generic,Language
+SLAM Algorithms,Robotics,generic,Algorithm
+SOAP,Web Technologies,generic,Protocol
+Soft Computing,Artificial Intelligence,generic,Concept
+Solidity,Programming Languages,generic,Language
+Sorting Algorithm,Machine Learning,generic,Algorithm
+spaCy,Natural Language Processing,specific,Library
+Spark,Data Engineering,generic,Framework
+SparkML,Machine Learning,specific,Library
+Speech Recognition,Natural Language Processing,generic,Concept
+Spring Boot,Web Technologies,generic,Framework
+SPSS,Tool,generic,Tool
+SQL,Programming Languages,generic,Language
+Stable Diffusion,Generative AI,specific,Model
+Stata,Tool,generic,Tool
+Statistical Language Acquisition,Natural Language Processing,generic,Concept
+Streamlit,Web Technologies,specific,Framework
+Superset,Business Intelligence,specific,Tool
+Supervised Learning,Machine Learning,specific,Concept
+Support Vector Machine,Machine Learning,specific,Algorithm
+Swift,Programming Languages,generic,Language
+Syman,Artificial Intelligence,generic,Tool
+SystemVerilog,Programming Languages,generic,Hardware Description
+Tableau,Business Intelligence,specific,Tool
+TensorFlow,Neural Networks,specific,Framework
+Terraform,DevOps,generic,Infrastructure as Code
+Test Datasets,Machine Learning,generic,Concept
+Text Mining,Natural Language Processing,specific,Concept
+Theano,Deep Learning,generic,Framework
+Tokenization,Natural Language Processing,specific,Concept
+Torch,Machine Learning,generic,Framework
+Tornado,Web Technologies,specific,Framework
+TPOT,AutoML,specific,Framework+408:408371:4371:415
+TPUs,Hardware,generic,Technology
+Training Datasets,Machine Learning,generic,Concept
+Transfer Learning,Machine Learning,specific,Concept
+Travis CI,DevOps,generic,CI/CD
+Triton Inference Server,Model Deployment,specific,Framework
+TypeScript,Programming Languages,generic,Language
+Unity,Game Development,generic,Engine
+UAS,Autonomous Driving,generic,Concept
+Unreal Engine,Game Development,generic,Engine
+Unsupervised Learning,Machine Learning,specific,Concept
+VAEs,Generative AI,specific,Model
+VB.NET,Programming Languages,generic,Language
+Verilog,Programming Languages,generic,Hardware Description
+VHDL,Programming Languages,generic,Hardware Description
+Voice Interaction,Natural Language Processing,generic,Concept
+Voice User Interface,Natural Language Processing,generic,Concept
+Vowpal Wabbit,Machine Learning,specific,Library
+Vue.js,Web Technologies,generic,Framework
+Watson Conversation,Artificial Intelligence,generic,Framework
+Watson Studio,Artificial Intelligence,specific,Framework
+WebSockets,Web Technologies,generic,Protocol
+Weights & Biases,ML Experiment Tracking,specific,Tool
+Weka,Artificial Intelligence,generic,Framework
+What-If Tool,Explainable AI,specific,Tool
+Word Embedding,Natural Language Processing,specific,Concept
+Word2Vec Models,Natural Language Processing,specific,Model
+Xamarin,Mobile Development,generic,Framework
+Xgboost,Machine Learning,specific,Library
+XML,Web Technologies,generic,Markup Language
+YAML,Web Technologies,generic,Data Format
+YOLO,Computer Vision,specific,Model
+ZBrush,3D Modeling,generic,Software
+ZenML,MLOps,specific,Framework
+Zsh,Programming Languages,generic,Shell Scripting
+Zufallswald,Machine Learning,generic,Algorithm
